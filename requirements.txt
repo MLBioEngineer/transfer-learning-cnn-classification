@@ -1,0 +1,22 @@
+# Core deep-learning stack
+torch
+torchvision
+timm
+
+# Data processing and metrics
+numpy
+pandas
+scikit-learn
+Pillow
+
+# Visualization
+matplotlib
+seaborn
+
+# Utilities
+tqdm
+jupyter
+notebook
+
+# Optional: used only inside Google Colab notebooks
+# google-colab

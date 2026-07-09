@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and generated outputs
+data/
+datasets/
+outputs/
+results/
+runs/
+logs/
+checkpoints/
+models/
+weights/
+
+# Large ML files
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.h5
+*.pkl
+*.joblib
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
